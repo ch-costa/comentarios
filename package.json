@@ -4,8 +4,8 @@
   "private": true,
   "dependencies": {
     "bootstrap-css-only": "^3.3.7",
-    "firebase": "^4.8.0",
-    "re-base": "^3.2.1",
+    "firebase": "^4.10.0",
+    "re-base": "^3.2.2",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-scripts": "1.0.17",

@@ -1,6 +1,6 @@
 import React from 'react'
 
-// TO DOver melhor functional satateless components
+// TO DO ver melhor functional satateless components
 
 const  Comment = props => 
    <p className="well">
